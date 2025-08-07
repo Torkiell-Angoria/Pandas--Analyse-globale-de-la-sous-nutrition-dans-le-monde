@@ -36,3 +36,14 @@ L'objectif principal est d'identifier les tendances, les évolutions et les disp
 
 
 ![présentation](https://github.com/Torkiell-Angoria/Pandas--Analyse-globale-de-la-sous-nutrition-dans-le-monde/blob/main/img/presentation-aide-alimentaire.gif)
+
+
+## Résulats clés
+
+En 2017, 7 % de la population mondiale (528 millions de personnes) souffrait de sous-nutrition.
+La production alimentaire mondiale pourrait théoriquement nourrir 9,1 milliards de personnes, montrant que le problème vient surtout d’une mauvaise répartition des ressources.
+Seulement 50 % de la nourriture produite est destinée à l’alimentation humaine ; une part importante est perdue ou utilisée pour l’alimentation animale.
+Dans certains pays, jusqu’à 30–50 % de la population est sous-nutrie, souvent en lien avec conflits, instabilité politique ou problèmes climatiques.
+Certains pays ont reçu une aide alimentaire variable entre 2013 et 2016, avec une augmentation notable au Yémen.
+La Thaïlande, grand producteur et exportateur de manioc, connaît une sous-nutrition locale importante, illustrant un déséquilibre entre exportation et besoins alimentaires locaux.
+
