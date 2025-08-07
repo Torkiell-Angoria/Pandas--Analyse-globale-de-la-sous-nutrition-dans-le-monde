@@ -18,9 +18,9 @@ L'objectif principal est d'identifier les tendances, les évolutions et les disp
   #### Notebook complet contenant :
   
   - L’importation, le nettoyage et la transformation des données
-  - 
+    
   - L’analyse descriptive et visuelle des tendances
-  - 
+    
   - Des pistes d’analyse complémentaire
 
 
@@ -36,7 +36,3 @@ L'objectif principal est d'identifier les tendances, les évolutions et les disp
 
 
 ![présentation](https://github.com/Torkiell-Angoria/Pandas--Analyse-globale-de-la-sous-nutrition-dans-le-monde/blob/main/img/presentation-aide-alimentaire.gif)
-
-✅ Objectif
-
-Contribuer à une vision globale de l’évolution des données alimentaires dans le monde en apportant une analyse rigoureuse de la période 2013–2017, en cohérence avec la seconde partie déjà réalisée.
